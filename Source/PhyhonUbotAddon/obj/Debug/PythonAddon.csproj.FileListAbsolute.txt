@@ -1,0 +1,10 @@
+E:\Projs\Python Addon\Source\PHPUbotAddon\bin\Debug\UBotPlugin.dll
+E:\Projs\Python Addon\Source\PHPUbotAddon\bin\Debug\ExecutePython.dll
+E:\Projs\Python Addon\Source\PHPUbotAddon\bin\Debug\ExecutePython.pdb
+E:\Projs\Python Addon\Source\PHPUbotAddon\obj\Debug\ExecutePython.dll
+E:\Projs\Python Addon\Source\PHPUbotAddon\obj\Debug\ExecutePython.pdb
+E:\Projs\Python Addon\Source\PhyhonUbotAddon\bin\Debug\ExecutePython.dll
+E:\Projs\Python Addon\Source\PhyhonUbotAddon\bin\Debug\ExecutePython.pdb
+E:\Projs\Python Addon\Source\PhyhonUbotAddon\bin\Debug\UBotPlugin.dll
+E:\Projs\Python Addon\Source\PhyhonUbotAddon\obj\Debug\ExecutePython.dll
+E:\Projs\Python Addon\Source\PhyhonUbotAddon\obj\Debug\ExecutePython.pdb
